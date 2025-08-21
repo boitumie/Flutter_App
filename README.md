@@ -1,3 +1,3 @@
 # new_app
 
-A new Flutter project.
+This application takes a website and converts it into an app
